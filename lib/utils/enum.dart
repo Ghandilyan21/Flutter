@@ -1,0 +1,4 @@
+enum EditorScreenType {
+  newNote,
+  editNote,
+}
