@@ -1,0 +1,1 @@
+ /home/artyom/Desktop/myProjects/note_app/.dart_tool/flutter_build/e6e2f90ca123754e42072146498eca0a/native_assets.yaml: 

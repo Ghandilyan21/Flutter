@@ -1,0 +1,14 @@
+/home/artyom/Desktop/myProjects/note_app/build/linux/x64/debug/bundle/note_app
+/home/artyom/Desktop/myProjects/note_app/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/artyom/Desktop/myProjects/note_app/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/artyom/Desktop/myProjects/note_app/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/artyom/Desktop/myProjects/note_app/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/artyom/Desktop/myProjects/note_app/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/artyom/Desktop/myProjects/note_app/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/artyom/Desktop/myProjects/note_app/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/artyom/Desktop/myProjects/note_app/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/artyom/Desktop/myProjects/note_app/build/linux/x64/debug/bundle/data/flutter_assets/fonts/nunito.ttf
+/home/artyom/Desktop/myProjects/note_app/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/artyom/Desktop/myProjects/note_app/build/linux/x64/debug/bundle/data/flutter_assets/assets/note_bg.png
+/home/artyom/Desktop/myProjects/note_app/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/artyom/Desktop/myProjects/note_app/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
